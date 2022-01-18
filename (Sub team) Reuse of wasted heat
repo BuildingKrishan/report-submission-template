@@ -35,6 +35,76 @@ As discussed in the meeting, we need to answer the following questions:
 
 ---
 
+
+
+
+Requirements
+1.	Direct Sunlight falling on lens and hence on the device located above focus point
+2.	High thermal conducting material to obtain high thermal temperature difference
+3.	Water bucket fully covered without any sunlight falling on its surface
+4.	Connection to a battery device
+5.	Efficient thermoelectric generator preferably using latest technology
+
+Specifications
+1.	4 TEG’s tightly fitted below Aluminum Plate
+2.	Temp on hot side 200 ° C and Cold Side Temp is 30° C 
+3.	Each TEG produces 20W power, Total generated power is 80W (Without battery connection)
+4.	A solar concentrator with sunlight area of 1m^2. 
+
+Device Details
+1.	TEG Device
+
+Device Info
+Type: TGM2871.41.5 
+Price: $11.5 = Rs.855 
+No. of Pieces:  6
+Size: 55*55mm*4.2mm 
+Resitance: 3.8ohm 
+RAC22C Resistor: 2.6ohm 
+Coefficient: 0.85 
+Voltage: 12.2V 
+Current: 1.65A 
+Power: 20.13W 
+Efficiency: 5.1
+T cold side: 30C T hot side: 200C	7.2W output power
+I load 	0.96 amps
+U load 	7.5 volts
+Rac (at 200C)	7.8 ohm
+
+
+
+
+2.	Aluminum Sheet
+
+Size: 14cm x 14cm x 5mm
+Price:
+ 
+3.	Heat Sink
+    
+Model:
+Price:
+Size:
+No. of Pieces:
+
+4.	Fresnel Lens
+
+Model:
+Price:
+Size:
+No. of Pieces:
+
+5.	Glass Enclosure:
+
+Model:
+Price:
+Size:
+No. of Pieces:
+
+6.	Water Bucket: 
+
+
+
+
 ### References
 
 ```
