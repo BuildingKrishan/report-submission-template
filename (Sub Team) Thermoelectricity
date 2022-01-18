@@ -49,12 +49,13 @@ sheet enclosed in glass chamber is connected to TEG and the other side of TEG is
 Electricity Generation. 
 
 Specifications
+    Device Requirements
 1.	4 TEG’s tightly fitted below Aluminum Plate
 2.	Temp on hot side 200 ° C and Cold Side Temp is 30° C 
 3.	Each TEG produces 20W power, Total generated power is 80W (Without battery connection)
 4.	A solar concentrator with sunlight area of 1m^2. 
-
-Device Details
+    
+    Device Components
 1.	TEG Device
 
 Device Info
@@ -69,6 +70,8 @@ Voltage: 12.2V
 Current: 1.65A 
 Power: 20.13W 
 Efficiency: 5.1
+
+With a battery System:-
 T cold side: 30C T hot side: 200C	7.2W output power
 I load 	0.96 amps
 U load 	7.5 volts
@@ -79,8 +82,8 @@ Rac (at 200C)	7.8 ohm
 
 2.	Aluminum Sheet
 
-Size: 14cm x 14cm x 4mm
-Price: Rs. 30
+Size: 22cm x 15cm x 4mm
+Price: Rs. 35
 Thermal Conductivity: 237 W·m−1·K−1
 
 
@@ -106,7 +109,6 @@ Size:
 No. of Pieces:
 
 6.	Water Bucket: 
-
 
 
 
