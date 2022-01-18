@@ -43,16 +43,10 @@ As discussed in the meeting, we need to answer the following questions:
 ```
 sources used.
 ```
-
-
-
-
-Requirements
-1.	Direct Sunlight falling on lens and hence on the device located above focus point
-2.	High thermal conducting material to obtain high thermal temperature difference
-3.	Water bucket fully covered without any sunlight falling on its surface
-4.	Connection to a battery device
-5.	Efficient thermoelectric generator preferably using latest technology
+Description
+Our goal is to design a Concentrated Solar Thermoelectric system which can be used in the home. It works by concentrating sun's heat using a lens on a Alumimnium Sheet, the hot Aluminum
+sheet enclosed in glass chamber is connected to TEG and the other side of TEG is connected with a Heat Sink which is at low temperature. Difference in temperature on both sides results in 
+Electricity Generation. 
 
 Specifications
 1.	4 TEG’s tightly fitted below Aluminum Plate
@@ -86,8 +80,10 @@ Rac (at 200C)	7.8 ohm
 2.	Aluminum Sheet
 
 Size: 14cm x 14cm x 4mm
-Price:
- 
+Price: Rs. 30
+Thermal Conductivity: 237 W·m−1·K−1
+
+
 3.	Heat Sink
     
 Model:
@@ -115,5 +111,5 @@ No. of Pieces:
 
 
 Product Links:
-
-https://www.indiamart.com/proddetail/aluminum-acp-sheet-14388396791.html#:~:text=Alstrong%20Aluminum%20ACP%20Sheet%2C%204mm,ID%3A%2014388396791
+1. https://www.alibaba.com/product-detail/Taidacent-15V-1-65A-24W-TGM_60188745791.html?spm=a2700.galleryofferlist.normal_offer.d_title.4e9d2ea0WfEpoy
+2. https://www.indiamart.com/proddetail/aluminum-acp-sheet-14388396791.html#:~:text=Alstrong%20Aluminum%20ACP%20Sheet%2C%204mm,ID%3A%2014388396791
