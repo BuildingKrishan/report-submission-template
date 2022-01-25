@@ -1,4 +1,4 @@
-## Solar Thermoelectric Generator
+ ### Solar Thermoelectric Generator
 
 <font size = "2">
 
@@ -10,7 +10,7 @@
 
 </font>
 
-### Requirements
+##### Requirements
 
 Should be able to generate enough power during sunlight hours to meet the basic energy requirements 
 No obstruction in between Sun's Rays and Lens so that direct sunlight falls on device
@@ -18,7 +18,7 @@ Located near Equatorial Region and having less cloudy days preferably
 High efficiency Thermoelectric generator using latest tech at low cost
 Suitable battery device interfaced with the generator to store battery backup for 2 days
 
-### Specifications
+##### Specifications
 
 
     Add the device requirement points in construction
@@ -107,7 +107,7 @@ Suitable battery device interfaced with the generator to store battery backup fo
         - Total Cost = Component Cost + Mounting Cost + Miscellaneous Cost =  20,845 + 2,500 + 1000 = Rs. 24,345 .
 
 
-### Product Links
+##### Product Links
 
 1.  https://www.alibaba.com/product-detail/Taidacent-15V-1-65A-24W-TGM_60188745791.html?spm=a2700.galleryofferlist.normal_offer.d_title.4e9d2ea0WfEpoy
 2.  https://www.indiamart.com/proddetail/aluminum-acp-sheet-14388396791.html#:\~:text=Alstrong%20Aluminum%20ACP%20Sheet%2C%204mm,ID%3A%2014388396791
@@ -118,7 +118,7 @@ Suitable battery device interfaced with the generator to store battery backup fo
 (“Solar Thermoelectric Generator - Sunflower : 5 Steps (with Pictures) -
 Instructables” n.d.) (Zhu et al. 2014) (Sun et al. 2017)
 
-### References
+##### References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
@@ -154,3 +154,7 @@ Economies (2013 AEDCEE), 52 (January): 651–58.
 </div>
 
 </div>
+
+---
+
+
