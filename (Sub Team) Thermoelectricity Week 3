@@ -118,6 +118,12 @@ Suitable battery device interfaced with the generator to store battery backup fo
 (“Solar Thermoelectric Generator - Sunflower : 5 Steps (with Pictures) -
 Instructables” n.d.) (Zhu et al. 2014) (Sun et al. 2017)
 
+Diagrams and Working Principle 
+
+Heat from solar radiation heats the Aluminium surface which in turns heats the hot side of TEG. Cold side of TEG being attached to heat sink which in turn is in contact with Water source 
+as seen in above figure keeps the Cold side of TEG at cool temperature. A fresnel lens concentrates the solar radiation to the the aluminium plate to achieve higher temperatures than
+otherwise possible. The difference in the temperature between two faces of TEG results in electricity generation in accordance with Seebeck Effect.  
+
 ##### References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
