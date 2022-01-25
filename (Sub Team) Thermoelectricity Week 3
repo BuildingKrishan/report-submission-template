@@ -12,12 +12,14 @@
 
 ##### Requirements
 
-     - Should be able to generate enough power during sunlight hours to meet the basic energy requirements 
-     - No obstruction in between Sun's Rays and Lens so that direct sunlight falls on device
-     - Located near Equatorial Region and having less cloudy days preferably
-     - High efficiency Thermoelectric generator using latest tech at low cost
-     - Sink does not lose contact with water due to evaporation, TEG should not come in direct contact with water
-     - Suitable battery device interfaced with the generator to store battery backup for 2 days
+**Geographical requirements**
+
+The Solar TEG would work well under weather and geographical conditions having high sunlight access and hot temperatures.  Therefore regions near equator having lesser number of cloudy days is preferred.
+
+**Requirements from the house**
+
+Roof of thehouse must be horizantal plane in order to place the device. House shall use energy for basic needs only, no referigerators or AC's are installed in the house. 
+
 
 ##### Specifications
      
