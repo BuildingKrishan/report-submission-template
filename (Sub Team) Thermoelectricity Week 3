@@ -12,22 +12,14 @@
 
 ##### Requirements
 
-Should be able to generate enough power during sunlight hours to meet the basic energy requirements 
-No obstruction in between Sun's Rays and Lens so that direct sunlight falls on device
-Located near Equatorial Region and having less cloudy days preferably
-High efficiency Thermoelectric generator using latest tech at low cost
-Sink does not lose contact with water due to evaporation, TEG should not come in direct contact with water
-Suitable battery device interfaced with the generator to store battery backup for 2 days
+1. Should be able to generate enough power during sunlight hours to meet the basic energy requirements 
+2. No obstruction in between Sun's Rays and Lens so that direct sunlight falls on device
+3. Located near Equatorial Region and having less cloudy days preferably
+4. High efficiency Thermoelectric generator using latest tech at low cost
+5. Sink does not lose contact with water due to evaporation, TEG should not come in direct contact with water
+6. Suitable battery device interfaced with the generator to store battery backup for 2 days
 
 ##### Specifications
-
-
-    Add the device requirement points in construction
--  **Device Requirements**
-     1. 6 TEG’s tightly fitted below Aluminum Plate
-     2. Temp on hot side 200 ° C and Cold Side Temp is 30° C 
-     3. Each TEG produces 20W power, Total generated power is 80W (Without battery connection)
-     4. A solar concentrator with sunlight area of 1m^2.
      
 -  **Components**
     
