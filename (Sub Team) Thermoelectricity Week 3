@@ -115,11 +115,18 @@
 (“Solar Thermoelectric Generator - Sunflower : 5 Steps (with Pictures) -
 Instructables” n.d.) (Zhu et al. 2014) (Sun et al. 2017)
 
-Diagrams and Working Principle 
+##### Diagrams and Working Principle 
 
 Heat from solar radiation heats the Aluminium surface which in turns heats the hot side of TEG. Cold side of TEG being attached to heat sink which in turn is in contact with Water source 
 as seen in above figure keeps the Cold side of TEG at cool temperature. A fresnel lens concentrates the solar radiation to the the aluminium plate to achieve higher temperatures than
 otherwise possible. The difference in the temperature between two faces of TEG results in electricity generation in accordance with Seebeck Effect.  
+
+![](https://content.instructables.com/ORIG/F93/ZNQ3/J7MFSOVQ/F93ZNQ3J7MFSOVQ.jpg?auto=webp&frame=1&width=590&height=1024&fit=bounds&md=5d4d6abad4cf0be2298356cfaddbc183)
+
+
+
+![](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C2EE22248E&imageInfo.ImageIdentifier.Year=2012)
+
 
 ##### References
 
@@ -153,6 +160,15 @@ Thermoelectric Generator.” *Energy Procedia*, 2013 International
 Conference on Alternative Energy in Developing Countries and Emerging
 Economies (2013 AEDCEE), 52 (January): 651–58.
 <https://doi.org/10.1016/j.egypro.2014.07.121>.
+
+</div>
+
+<div id="ref-http://zotero.org/groups/4560418/items/5DDN285P"
+class="csl-entry">
+
+“Concentrated Solar Thermoelectric Generators - Energy & Environmental
+Science (RSC Publishing).” n.d. Accessed January 25, 2022.
+<https://pubs.rsc.org/en/content/articlelanding/2012/ee/c2ee22248e>.
 
 </div>
 
