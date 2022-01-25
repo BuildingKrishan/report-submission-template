@@ -109,18 +109,27 @@ Instructables” n.d.) (Zhu et al. 2014) (Sun et al. 2017)
 
 ##### Diagrams and Working Principle 
 
-![](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C2EE22248E&imageInfo.ImageIdentifier.Year=2012)
-
-
-![](https://content.instructables.com/ORIG/F93/ZNQ3/J7MFSOVQ/F93ZNQ3J7MFSOVQ.jpg?auto=webp&frame=1&width=590&height=1024&fit=bounds&md=5d4d6abad4cf0be2298356cfaddbc183)
-
 Heat from solar radiation heats the Aluminium surface which in turns heats the hot side of TEG. Cold side of TEG being attached to heat sink which in turn is in contact with Water source 
 as seen in above figure keeps the Cold side of TEG at cool temperature. A fresnel lens concentrates the solar radiation to the the aluminium plate to achieve higher temperatures than
 otherwise possible. The difference in the temperature between two faces of TEG results in electricity generation in accordance with Seebeck Effect.  
 
+![](https://content.instructables.com/ORIG/F93/ZNQ3/J7MFSOVQ/F93ZNQ3J7MFSOVQ.jpg?auto=webp&frame=1&width=590&height=1024&fit=bounds&md=5d4d6abad4cf0be2298356cfaddbc183)
 
 
 
+![](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C2EE22248E&imageInfo.ImageIdentifier.Year=2012)
+
+
+**Construction**
+
+- The topside of the aluminum plate is painted black paint to improve heat absorption.
+- Fresnal lens is used for concentrating more sunlight on aluminium sheet.
+- Next attach the hot sides of the TEG modules to the aluminum plate. Use thermal grease between the aluminum plate and TEG module.
+- Next secure the heat sinks to the cold sides of the TEG modules. Since we have two large aluminium heat 
+  sinks, we attach each heat sink to cold side of 3 TEGs  . 
+- Heat sinks are partially submerged in the cold ocean water. This keeps the heat sink cool, which in turn keeps the cool side of the TEG module cold.
+- Now , Float the whole device in water and allow the top aluminum plate to get hot in the sunlight. Within a few minutes the TEG will begin to
+  generate electric power.
 
 
 
